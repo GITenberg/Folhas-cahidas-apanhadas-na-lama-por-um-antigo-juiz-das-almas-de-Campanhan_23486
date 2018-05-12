@@ -1,0 +1,44 @@
+_repo: Folhas-cahidas-apanhadas-na-lama-por-um-antigo-juiz-das-almas-de-Campanhan_23486
+_version: 0.1.0
+alternative_title: Folhas caídas, apanhadas na lama por um antigo juiz das almas de
+  Campanhã
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23486'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: "Produced by Pedro Saborano (produced from scanned images\r\nof public\
+  \ domain material from Google Book Search)"
+publication_note: "Porto:\r\nTypographia de F. G. da Fonseca\r\nRua das Hortas N.º\
+  \ 152 e 153\r\n1854"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Folhas cahidas, apanhadas na lama por um antigo juiz das almas de Campanhan
+url: http://www.gutenberg.org/ebooks/23486
